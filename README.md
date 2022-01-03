@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poojashri
-- 👀 I’m an experienced backend developer with hands on scaled architecture experience in high ownership miroservices ecosystems.  
+- 👀 I’m an experienced backend developer, I have worked on scaled architectures in high ownership miroservices ecosystems.  
 - 🌱 I’m currently learning Machine learning and AI with Univ.ai
 - 💞️ I’m looking to collaborate on Data Science projects and AI on cloud systems.
 - 📫 How to reach me LinkedIn linkedin.com/in/pooja-srivastava-bb037649
